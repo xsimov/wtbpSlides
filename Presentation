@@ -1,0 +1,19 @@
+Presentation
+***************************
+
+As a composer
+-iteration 0 / CI
+  -github repo master/iteration 0
+  -travis
+  -heroku setup
+
+-planification
+  -roadmap
+  -setting trello
+
+-FLOW
+  -BDD cucumber/capybara syntax RED
+  -TDD rspec RED
+  -Code
+  -TDD GREEN
+  -BDD GREEN
